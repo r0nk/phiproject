@@ -1,4 +1,4 @@
-1. Required Introductory Courses
+Required Introductory Courses:
 CSE 114 Computer Science I
 CSE 214 Computer Science II
 CSE 215 Foundations of Computer Science 

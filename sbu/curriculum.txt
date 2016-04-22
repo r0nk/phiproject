@@ -1,0 +1,52 @@
+Requirements for the Major
+
+The major in Computer Science leads to the Bachelor of Science degree.  Completion of the major requires approximately 80 credits.  At least 24 credits from items 1 to 3 below, and at least 18 credits from items 2 and 3, must be completed at Stony Brook. 
+
+1. Required Introductory Courses
+
+CSE 114 Computer Science I
+CSE 214 Computer Science II
+CSE 215 Foundations of Computer Science or CSE 150 Foundations of Computer Science: Honors
+CSE 219 Computer Science III
+CSE 220 Systems Fundamentals I
+Note: Students in the CSE Honors Program may substitute CSE 160, CSE 161 and CSE 260, CSE 261 Computer Science A, B: Honors with labs for CSE 114, 214 and 219.
+
+2. Required Advanced Courses
+
+CSE 303 Introduction to the Theory of Computation or CSE 350 Theory of Computation: Honors
+CSE 373 Analysis of Algorithms or CSE 385 Analysis of Algorithms: Honors
+CSE 308 Software Engineering
+CSE 320 Systems Fundamentals II
+Three courses chosen from: CSE 304, CSE 305, CSE 306, CSE 307, CSE 310/346, CSE 328. The three courses must include CSE 305 or CSE 306.
+3. Computer Science Electives
+
+Three upper-division CSE electives. Technical electives do not include teaching practica (CSE 475), the senior honors project (CSE 495, 496), and courses designated as non-technical in the course description (such as CSE 301).
+
+4. AMS 151, AMS 161 Applied Calculus I, II
+Note: The following alternate calculus course sequences may be substituted for AMS 151, AMS 161 in major requirements or prerequisites: MAT 125, MAT 126, MAT 127, or MAT 131, MAT 132, or MAT 141, MAT 142 or MAT 171. Equivalency for MAT courses achieved through the Mathematics Placement Examination is accepted to meet MAT course requirements.
+
+5. One of the following:
+
+MAT 211 Introduction to Linear Algebra
+AMS 210 Applied Linear Algebra
+AMS 326 Numerical Analysis
+6. Both of the following:
+
+AMS 301 Finite Mathematical Structures
+AMS 310 Survey of Probability and Statistics or AMS 311 Probability Theory or AMS 312 Mathematical Statistics
+7. At least one of the following natural science lecture/laboratory combinations:
+BIO 201/204 or BIO 202/204 or BIO 203/204 or CHE 131/133 or CHE 152/154 or PHY 126/133 or PHY 127/133 or PHY 131/133 or PHY 141/133
+
+8. Additional natural science courses selected from above and the following list: 
+AST 203, AST 205,CHE 132, CHE 321, CHE 322, CHE 331, CHE 332,GEO 102, GEO 103, GEO 112, GEO 113, PHY 125, PHY 132, PHY 134, PHY 142, PHY 251, PHY 252
+
+Note: The courses selected in 7 and 8 must carry at least 12 credits.
+
+9. Professional Ethics
+
+CSE 312 Legal, Social, and Ethical Issues in Information Systems
+10. Upper-Division Writing Requirement: CSE 300 Technical Communications
+
+All degree candidates must demonstrate technical writing skills at a level that would be acceptable in an industrial setting. To satisfy the requirement, students must pass CSE 300, a course that requires the completion of various writing assign­ments, including at least one significant technical paper.
+
+Note: All students are encouraged to discuss their program with an undergraduate advisor. In Requirement 2 above, CSE/ESE double majors may substitute ESE 440, ESE 441 Electrical Engineering Design I, II for CSE 308 Software Engineering provided that the design project contains a significant software component. Approval of the Department of Computer Science is required.

@@ -1,5 +1,5 @@
 ### Core
 
-*Systems
-*Logic
-*Programming
+* Systems
+* Logic
+* Programming

@@ -4,7 +4,7 @@ Knowledge should be free and available to everyone. Phitree exists to provide ea
 
 ### Presentation
 
-Information should be presented in such a way similar to how a salesman sells a product. What good is it to share information if it is not presented clearly? Build upon what the person already knows, and assume they know nothing. Let higher education not exist only for those who are already educated, but for everyone, especially those who wish to learn.
+Information should be presented in such a way similar to how a salesman sells a product. What good is it to share information if it is not presented clearly? We must assume the learners know nothing. Let higher education not exist only for those who are already educated, but for everyone, especially those who wish to learn.
 
 ### Team
 

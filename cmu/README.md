@@ -8,7 +8,7 @@ Carnegie Melon University:
 * 15-213: Introduction to Computer Systems
 * 15-251: Great Theoretical Ideas in Computer Science
 * 15-451: Algorithm Design and Analysis
-* 
+
 ### Communications Course (choose one)
 * 15-221 Technical Communication for Computer Scientists
 * 15-300 Research and Innovation in Computer Science
@@ -23,7 +23,7 @@ Carnegie Melon University:
 * 21-301: Combinatorics
 * 21-484: Graph Theory
 * Others as designated by the CS Undergraduate Program
-* 
+
 ### Applications Elective (choose one)
 * 02-510: Computational Genomics
 * 05-391: Designing Human-Centered Software
@@ -48,7 +48,7 @@ Carnegie Melon University:
 * 80-311: Undecidability and Incompleteness
 * Others as designated by the CS Undergraduate Program
 
-Software Systems Elective (choose one)
+### Software Systems Elective (choose one)
 * 15-410: Operating System Design and Implementation
 * 15-411: Compiler Design
 * 15-418: Parallel Computer Architecture and Programming
@@ -80,37 +80,37 @@ Courses meeting the lab requirement include:
 * 02-223: Personalized Medicine: Understanding Your Own Genome
 * 02-250: Introduction to Computational Biology (or 02-251 + 02-252)
 * 02-261: Quantitative Cell and Molecular Biology Laboratory (also meets the lab requirement)
-* 03-511     Computational Molecular Biology and Genomics   
-* 03-512     Computational Methods for Biological Modeling and Simulation
-* 06-262     Mathematical Methods of Chemical Engineering   
-* 09-103     Atoms, Molecules and Chemical Change  
-* 09-104     Fundamental Aspects of Organic Chemistry and Biochemistry
-* 09-108     The Illusion and Magic of Food
-* 09-109     Kitchen Chemistry Sessions (nor 09-209)
-* 09-231     Mathematical Methods for Chemists    
-* 12-271     Introduction to Computer Application in Civil & Environmental Engineering
-* 18-090     Digital Media Interactions: Signal Processing for the Arts
-* 18-099     Mobile App Design and Development
-* 18-200     Emerging Trends in Electrical and Computer Engineering
-* 18-202     Mathematical Foundations of Electrical Engineering   
-* 18-213     Introduction to Computer Systems    
-* 18-345     Introduction to Telecommunication Networks    
-* 18-411     Computational Techniques in Engineering  
-* 18-482     Telecommunications, Technology Policy & Management  
-* 18-487     Introduction to Computer & Network Security & Applied Cryptography
-* 18-540     Rapid Prototyping of Computer Systems   
-* 19-101     Introduction to Engineering and Public Policy    
-* 19-211     Ethics and Policy Issues in Computing 
-* 19-350     SP TP: Research Methods & Statistics for Engineering & Public Policy Analysis 
-* 19-402     Telecommunications Technology, Policy & Management    
-* 19-403     Policies of Wireless Systems and the Internet  
-* 19-411     Global Competitiveness: Firms, Nations and Technological Change
-* 19-448     Science, Technology & Ethics
-* 27-410     Computational Techniques in Engineering 
-* 33-100     Basic Experimental Physics
-* 33-115     Physics for Future Presidents 
-* 33-124     Introduction to Astronomy
-* 33-232     Mathematical Methods of Physics 
-* 39-100     Special Topics: What Is Engineering?
-* 39-200     Business for Engineers
-* 42-201     Professional Issues in Biomedical Engineering
+* 03-511: Computational Molecular Biology and Genomics   
+* 03-512: Computational Methods for Biological Modeling and Simulation
+* 06-262: Mathematical Methods of Chemical Engineering   
+* 09-103: Atoms, Molecules and Chemical Change  
+* 09-104: Fundamental Aspects of Organic Chemistry and Biochemistry
+* 09-108: The Illusion and Magic of Food
+* 09-109: Kitchen Chemistry Sessions (nor 09-209)
+* 09-231: Mathematical Methods for Chemists    
+* 12-271: Introduction to Computer Application in Civil & Environmental Engineering
+* 18-090: Digital Media Interactions: Signal Processing for the Arts
+* 18-099: Mobile App Design and Development
+* 18-200: Emerging Trends in Electrical and Computer Engineering
+* 18-202: Mathematical Foundations of Electrical Engineering   
+* 18-213: Introduction to Computer Systems    
+* 18-345: Introduction to Telecommunication Networks    
+* 18-411: Computational Techniques in Engineering  
+* 18-482: Telecommunications, Technology Policy & Management  
+* 18-487: Introduction to Computer & Network Security & Applied Cryptography
+* 18-540: Rapid Prototyping of Computer Systems   
+* 19-101: Introduction to Engineering and Public Policy    
+* 19-211: Ethics and Policy Issues in Computing 
+* 19-350: SP TP: Research Methods & Statistics for Engineering & Public Policy Analysis 
+* 19-402: Telecommunications Technology, Policy & Management    
+* 19-403: Policies of Wireless Systems and the Internet  
+* 19-411: Global Competitiveness: Firms, Nations and Technological Change
+* 19-448: Science, Technology & Ethics
+* 27-410: Computational Techniques in Engineering 
+* 33-100: Basic Experimental Physics
+* 33-115: Physics for Future Presidents 
+* 33-124: Introduction to Astronomy
+* 33-232: Mathematical Methods of Physics 
+* 39-100: Special Topics: What Is Engineering?
+* 39-200: Business for Engineers
+* 42-201: Professional Issues in Biomedical Engineering

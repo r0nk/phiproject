@@ -1,3 +1,11 @@
+### Strucure
+
+* Computer Science
+  * Foundations
+  * Discrete Mathematics
+  * System
+
+
 ### About
 
 Knowledge should be free and available to everyone. Phitree exists to provide easy to understand information to anyone, and everyone, for free. 

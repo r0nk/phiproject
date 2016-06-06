@@ -4,4 +4,3 @@ An algorithm is a list of ordered instructions that a computer (person who makes
 
 Similarly; an algorithm is a list of ordered instructions that a computer (like a person who makes the pizza) can understand and perform. When the computer finishes going through a list of ordered instructions, it is said that the algorithm is complete (the pizza is made). Many times, a computer will be provided with some sort of input (the ingredients). These given inputs might be needed in the steps that the computer must perform.
 
-* Numaer Zaker

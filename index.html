@@ -19,9 +19,11 @@
 </div>
 <script>
 
-rooturl = "https://raw.githubusercontent.com/Numaer/phiproject/master/"
-
+rooturl = "https://raw.githubusercontent.com/Numaer/phiproject/master/" 
 var fileDisplayArea = document.getElementById('fileDisplayArea');
+
+
+function readTextFile(file)
 {
 	file = rooturl + file
 	var rawFile = new XMLHttpRequest();

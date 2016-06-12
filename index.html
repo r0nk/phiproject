@@ -1,21 +1,21 @@
 <CTYPE html>
 <html>
 <head>
-<title></title>
+<title>Phi Project</title>
+<link rel="stylesheet" href="./style.css">
 </head>
 <body>
 <div id="page-wrapper">
-	<h1>Text File Reader</h1>
-	<div>
-		Select a text file: <input id="fileInput" type="file">
-	</div>
-	<pre id="fileDisplayArea"></pre>
-	<pre>
-
-	</pre>
-	<pre></pre>
+	<h1>Phi Project</h1>
+	<div class="infoBox" id="fileDisplayArea"></div>
 </div>
 <script>
+
+baseurl = "https://raw.githubusercontent.com/Numaer/phiproject/master/"
+topics = "topics/"
+
+
+
 var fileDisplayArea = document.getElementById('fileDisplayArea');
 function readTextFile(file)
 {
@@ -35,7 +35,8 @@ function readTextFile(file)
 	rawFile.send(null);
 }
 
-readTextFile("./README.txt");
+
+readTextFile(baseurl + topics + "algorithm.md");
 </script>
 </body>
 </html>

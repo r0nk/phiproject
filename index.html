@@ -6,10 +6,10 @@
 </head>
 <body>
 <div id="nav">
-	<h1>Phi Project</h1>
+	<h1><a href="#" onclick="readTextFile('home.html')">Phi Project<a></h1>
 	<p>Phi Project is an initiative to make learning easier and simpler for everyone.</p>
 	<ul>
-	<li><a href="#" onclick="readTextFile('algorithm.md')">Algorithms</a></li>
+	<li><a href="#" onclick="readTextFile('topics/algorithm.html')">Algorithms</a></li>
 	</ul>
 </div>
 <div id="page-wrapper">
@@ -19,13 +19,11 @@
 </div>
 <script>
 
-baseurl = "https://raw.githubusercontent.com/Numaer/phiproject/master/"
-topics = "topics/"
+rooturl = "https://raw.githubusercontent.com/Numaer/phiproject/master/"
 
 var fileDisplayArea = document.getElementById('fileDisplayArea');
-function readTextFile(file)
 {
-	file = baseurl + topics + file
+	file = rooturl + file
 	var rawFile = new XMLHttpRequest();
 	rawFile.open("GET", file, false);
 	rawFile.onreadystatechange = function ()
@@ -41,6 +39,9 @@ function readTextFile(file)
 	}
 	rawFile.send(null);
 }
+
+//Initial state
+readTextFile("home.html")
 
 </script>
 </body>
